@@ -1,0 +1,24 @@
+         NJC Prelim 9758/2017/02/Q8
+	Heart rate, also known as pulse, is the number of times a person’s heart beats per minute. The normal heart rate of teenagers has a mean of 75 at the resting state. 
+Obesity is a leading preventable cause of death worldwide. It is most commonly caused by a combination of excessive food intake, lack of physical activity and genetic susceptibility. To examine the effect of obesity on heart rate, 70 obese teenagers are randomly selected and their heart rates h are measured in a resting state. The results are summarised as follows.
+
+$n = 70$ 	$\sum h  = 5411$ 		$\sum {{h^2}}  = 426433$
+
+The Health Promotion Board (HPB) wishes to test whether the mean heart rate for obese teenagers differs from the normal heart rate by carrying out a hypothesis test.
+(i) Explain whether HPB should use a 1-tail test or a 2-tail test.		[1]
+(ii) Explain why HPB is able to carry out a hypothesis test without knowing anything about the distribution and variance of the heart rates.		[2]
+(iii) Find the unbiased estimates of the population mean and variance, and carry out the test at the 10% level of significance for the HPB.		[6]
+A researcher wishes to test whether obese teenagers have a higher mean heart rate. He finds that the mean heart rate for 80 randomly obese teenagers is 79.4, then carries out a hypothesis test at the 10% level of significance. 
+(iv)	Explain, with justification, how the population variance of the heart rates will affect the  
+	conclusion made by the researcher.		[3]
+(v)	Show that the probability of any normal variable lying within one standard deviation 
+	from its mean is approximately 0.683. 		[1]
+By considering (iv) and (v), explain why it is likely for the researcher 	to reject the null hypothesis 
+         in his test if it is assumed that heart rates follow a normal distribution at the resting state.		[1]
+
+
+Answers
+(iii)
+p-value = 0.0768
+(iv)
+\[{\sigma ^2} \le 943\;\]
